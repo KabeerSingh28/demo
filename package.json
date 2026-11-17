@@ -27,12 +27,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KabeerSingh28/campus-task-manager-demo.git"
+    "url": "https://github.com/KabeerSingh28/demo.git"
   },
   "bugs": {
-    "url": "https://github.com/KabeerSingh28/campus-task-manager-demo/issues"
+    "url": "https://github.com/KabeerSingh28/demo/issues"
   },
-  "homepage": "https://github.com/KabeerSingh28/campus-task-manager-demo#readme",
+  "homepage": "https://github.com/KabeerSingh28/demo#readme",
   "engines": {
     "node": ">=18.0.0"
   },

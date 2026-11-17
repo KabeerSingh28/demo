@@ -273,8 +273,8 @@ campus-task-manager-demo/
 
 1. Clone or download this project repository:
    ```bash
-   git clone https://github.com/KabeerSingh28/campus-task-manager-demo.git
-   cd campus-task-manager-demo
+   git clone https://github.com/KabeerSingh28/demo.git
+   cd demo
    ```
 2. Install all dependencies from npm (installs `@kabeersingh/readme-buddy@0.1.0`):
    ```bash

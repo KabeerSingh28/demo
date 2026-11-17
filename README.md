@@ -71,7 +71,7 @@ const campusTaskManagerDemo = require('campus-task-manager-demo');
 | Version | `1.0.0` |
 | License | `MIT` |
 | Author | Kabeer Singh <kabeer2728singh@gmail.com> (https://github.com/KabeerSingh28) |
-| Repository | [https://github.com/KabeerSingh28/campus-task-manager-demo](https://github.com/KabeerSingh28/campus-task-manager-demo) |
+| Repository | [https://github.com/KabeerSingh28/demo](https://github.com/KabeerSingh28/demo) |
 | Node.js Requirement | `>=18.0.0` |
 | Production Dependencies | 1 |
 | Development Dependencies | 0 |
