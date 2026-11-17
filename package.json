@@ -1,0 +1,42 @@
+{
+  "name": "campus-task-manager-demo",
+  "version": "1.0.0",
+  "description": "A simple command-line task management application for college students to manage their assignments, deadlines, and daily academic tasks.",
+  "main": "src/index.js",
+  "bin": {
+    "campus-tasks": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/taskManager.test.js",
+    "generate-readme": "readme-buddy --force",
+    "generate-readme:api": "node scripts/generate-readme.js",
+    "preview-readme": "readme-buddy --dry-run"
+  },
+  "keywords": [
+    "task-management",
+    "college-assignments",
+    "deadline-tracker",
+    "student-productivity",
+    "academic-planner",
+    "cli-tool",
+    "json-storage",
+    "nodejs"
+  ],
+  "author": "Kabeer Singh <kabeer2728singh@gmail.com> (https://github.com/KabeerSingh28)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KabeerSingh28/campus-task-manager-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KabeerSingh28/campus-task-manager-demo/issues"
+  },
+  "homepage": "https://github.com/KabeerSingh28/campus-task-manager-demo#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@kabeersingh/readme-buddy": "^0.1.0"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Data Structures Lab 3 (Binary Search Trees)",
+    "subject": "CS 201",
+    "dueDate": "2026-11-20",
+    "completed": false,
+    "createdAt": "2026-11-15T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Read Chapter 4 on Operating System Process Scheduling",
+    "subject": "CS 305",
+    "dueDate": "2026-11-22",
+    "completed": true,
+    "createdAt": "2026-11-15T11:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Linear Algebra Problem Set 5 - Eigenvalues & Eigenvectors",
+    "subject": "MATH 240",
+    "dueDate": "2026-11-25",
+    "completed": false,
+    "createdAt": "2026-11-16T14:15:00.000Z"
+  }
+]
